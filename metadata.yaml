@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31704'
     url: http://www.gutenberg.org/2009/agents/31704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25974#God-s-Plan-with-Men
 gutenberg_issued: '2008-07-05'
 gutenberg_type: Text
 identifiers:
